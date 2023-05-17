@@ -6,6 +6,11 @@
             "descripcion": "Videos sobre el curso de Back End que estoy llevando a cabo."
         },
         {
+            "id": "frontend",
+            "nombre": "Front End",
+            "descripcion": "Videos sobre el curso de Front End que estoy llevando a cabo."
+        },
+        {
             "id": "mobile",
             "nombre": "Mobile",
             "descripcion": "Videos sobre el curso de Mobile que estoy llevando a cabo."
@@ -71,14 +76,6 @@
             "imageUrl": "https://img.youtube.com/vi/UuAX5azcvDQ/maxresdefault.jpg",
             "categoria": "frontend",
             "descripcion": "Video del area de Front End"
-        },
-        {
-            "id": "2ff93165-fdc7-42fd-ad08-a66d545bd229",
-            "title": "Box Model y Box sizing",
-            "videoUrl": "https://www.youtube.com/watch?v=ts9qfCKamKg",
-            "imageUrl": "https://img.youtube.com/vi/ts9qfCKamKg/maxresdefault.jpg",
-            "categorie": "Desing & UX",
-            "description": "Video del área de Front End."
         }
     ]
 }
