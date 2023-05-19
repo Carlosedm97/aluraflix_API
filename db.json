@@ -46,35 +46,35 @@
             "titulo": "¿Qué significa pensar como programador?",
             "videoUrl": "https://www.youtube.com/watch?v=ov7vA5HFe6w&t=6s",
             "imageUrl": "https://img.youtube.com/vi/ov7vA5HFe6w/maxresdefault.jpg",
-            "categoria": "frontend",
+            "categoria": "Front End",
             "descripcion": "Video del area de Front End"
         },
         {
             "titulo": "¿Cuando usar let, var y const?",
             "videoUrl": "https://www.youtube.com/watch?v=PztCEdIJITY",
             "imageUrl": "https://img.youtube.com/vi/PztCEdIJITY/maxresdefault.jpg",
-            "categoria": "frontend",
+            "categoria": "Front End",
             "descripcion": "Video del area de Front End"
         },
         {
             "titulo": "¿Qué es JavaScript?",
             "videoUrl": "https://www.youtube.com/watch?v=GJfOSoaXk4s",
             "imageUrl": "https://img.youtube.com/vi/GJfOSoaXk4s/maxresdefault.jpg",
-            "categoria": "frontend",
+            "categoria": "Front End",
             "descripcion": "Video del area de Front End"
         },
         {
             "titulo": "Equipo Front End",
             "videoUrl": "https://www.youtube.com/watch?v=rpvrLaBQwgg",
             "imageUrl": "https://img.youtube.com/vi/rpvrLaBQwgg/maxresdefault.jpg",
-            "categoria": "frontend",
+            "categoria": "Front End",
             "descripcion": "Video del area de Front End"
         },
         {
             "titulo": "¿Cómo un desarrollador Front End utiliza el Figma?",
             "videoUrl": "https://www.youtube.com/watch?v=UuAX5azcvDQ",
             "imageUrl": "https://img.youtube.com/vi/UuAX5azcvDQ/maxresdefault.jpg",
-            "categoria": "frontend",
+            "categoria": "Front End",
             "descripcion": "Video del area de Front End"
         }
     ]
