@@ -3,41 +3,49 @@
         {
             "id": "backend",
             "nombre": "Back End",
+            "color": "#00C86F",
             "descripcion": "Videos sobre el curso de Back End que estoy llevando a cabo."
         },
         {
             "id": "frontend",
             "nombre": "Front End",
+            "color": "#6BD1FF",
             "descripcion": "Videos sobre el curso de Front End que estoy llevando a cabo."
         },
         {
             "id": "mobile",
             "nombre": "Mobile",
+            "color": "#FFBA05",
             "descripcion": "Videos sobre el curso de Mobile que estoy llevando a cabo."
         },
         {
             "id": "infraestructura",
             "nombre": "Infraestructura",
+            "color": "#DC6EBE",
             "descripcion": "Videos sobre el curso de Infraestructura que estoy llevando a cabo."
         },
         {
             "id": "datascience",
             "nombre": "Data Science",
+            "color": "#9CD33B",
             "descripcion": "Videos sobre el curso de Data Science que estoy llevando a cabo."
         },
         {
             "id": "desingux",
             "nombre": "Desing & UX",
+            "color": "#6B5BE2",
             "descripcion": "Videos sobre el curso de Desing & UX que estoy llevando a cabo."
         },
         {
             "id": "marketingdigital",
             "nombre": "Marketing Digital",
+            "color": "#9CD33B",
             "descripcion": "Videos sobre el curso de Marketing Digital que estoy llevando a cabo."
         },
         {
             "id": "innovaciongestion",
             "nombre": "Innovacion y gestión",
+            "color": "#FF8C2A",
             "descripcion": "Videos sobre el curso de Innovacion y gestión que estoy llevando a cabo."
         }
     ],
@@ -88,6 +96,27 @@
             "titulo": "¿Qué Es Spring Framework?",
             "videoUrl": "https://www.youtube.com/watch?v=FqztWwPIrKo",
             "imageUrl": "https://img.youtube.com/vi/FqztWwPIrKo/maxresdefault.jpg",
+            "categoria": "Back End",
+            "description": "Video del área de Back End."
+        },
+        {
+            "titulo": "Spring Framework. ¿Qué es ?",
+            "videoUrl": "https://www.youtube.com/watch?v=t-iqt1b2qqk",
+            "imageUrl": "https://img.youtube.com/vi/t-iqt1b2qqk/maxresdefault.jpg",
+            "categoria": "Back End",
+            "description": "Video del área de Back End."
+        },
+        {
+            "titulo": "La magia detrás de Java",
+            "videoUrl": "https://www.youtube.com/watch?v=GrEO8nZzyZM",
+            "imageUrl": "https://img.youtube.com/vi/GrEO8nZzyZM/maxresdefault.jpg",
+            "categoria": "Back End",
+            "description": "Video del área de Back End."
+        },
+        {
+            "titulo": "Cómo usar IA para hacer un traductor de idiomas",
+            "videoUrl": "https://www.youtube.com/watch?v=8iS8VZK1zSI",
+            "imageUrl": "https://img.youtube.com/vi/8iS8VZK1zSI/maxresdefault.jpg",
             "categoria": "Back End",
             "description": "Video del área de Back End."
         }
