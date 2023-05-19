@@ -3,7 +3,23 @@
         {
             "id": "backend",
             "nombre": "Back End",
-            "descripcion": "Videos sobre el curso de Back End que estoy llevando a cabo."
+            "descripcion": "Videos sobre el curso de Back End que estoy llevando a cabo.",
+            "videos": [
+                {
+                    "titulo": "¿Cuál es la diferencia entre Front End y Back End?",
+                    "videoUrl": "https://www.youtube.com/watch?v=R9uaBxgCkyA",
+                    "imageUrl": "https://img.youtube.com/vi/R9uaBxgCkyA/maxresdefault.jpg",
+                    "categoria": "Back End",
+                    "description": "Video del área de Back End."
+                },
+                {
+                    "titulo": "¿Qué Es Spring Framework?",
+                    "videoUrl": "https://www.youtube.com/watch?v=FqztWwPIrKo",
+                    "imageUrl": "https://img.youtube.com/vi/FqztWwPIrKo/maxresdefault.jpg",
+                    "categoria": "Back End",
+                    "description": "Video del área de Back End."
+                }
+            ]
         },
         {
             "id": "frontend",
@@ -76,20 +92,6 @@
             "imageUrl": "https://img.youtube.com/vi/UuAX5azcvDQ/maxresdefault.jpg",
             "categoria": "Front End",
             "descripcion": "Video del area de Front End"
-        },
-        {
-            "titulo": "¿Cuál es la diferencia entre Front End y Back End?",
-            "videoUrl": "https://www.youtube.com/watch?v=R9uaBxgCkyA",
-            "imageUrl": "https://img.youtube.com/vi/R9uaBxgCkyA/maxresdefault.jpg",
-            "categoria": "Back End",
-            "description": "Video del área de Back End."
-        },
-        {
-            "titulo": "¿Qué Es Spring Framework?",
-            "videoUrl": "https://www.youtube.com/watch?v=FqztWwPIrKo",
-            "imageUrl": "https://img.youtube.com/vi/FqztWwPIrKo/maxresdefault.jpg",
-            "categoria": "Back End",
-            "description": "Video del área de Back End."
         }
     ]
 }
