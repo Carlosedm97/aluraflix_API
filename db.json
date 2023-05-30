@@ -32,7 +32,7 @@
         },
         {
             "id": "desingux",
-            "nombre": "Desing & UX",
+            "nombre": "IU & UX",
             "color": "#6B5BE2",
             "descripcion": "Videos sobre el curso de Desing & UX que estoy llevando a cabo."
         },
@@ -44,7 +44,7 @@
         },
         {
             "id": "innovaciongestion",
-            "nombre": "Innovacion y gestión",
+            "nombre": "Innovación y gestión",
             "color": "#FF8C2A",
             "descripcion": "Videos sobre el curso de Innovacion y gestión que estoy llevando a cabo."
         }
@@ -119,6 +119,55 @@
             "imageUrl": "https://img.youtube.com/vi/8iS8VZK1zSI/maxresdefault.jpg",
             "categoria": "Back End",
             "description": "Video del área de Back End."
+        },
+        {
+            "titulo": "Marketing personal para programadores",
+            "videoUrl": "https://www.youtube.com/watch?v=PEGmLW-a0h8",
+            "imageUrl": "https://img.youtube.com/vi/PEGmLW-a0h8/maxresdefault.jpg",
+            "categoria": "Marketing Digital",
+            "description": "Video del área de Marketing Digital"
+        },
+        {
+            "titulo": "Como desarrollar tu Marca Personal",
+            "videoUrl": "https://www.youtube.com/watch?v=LAK-RduBJUs",
+            "imageUrl": "https://img.youtube.com/vi/LAK-RduBJUs/maxresdefault.jpg",
+            "categoria": "Marketing Digital",
+            "description": "Video del área de Marketing Digital"
+        },
+        {
+            "titulo": "7 Soft Skills más deseadas por las empresas",
+            "videoUrl": "https://www.youtube.com/watch?v=YhR7Zp8NUzE",
+            "imageUrl": "https://img.youtube.com/vi/YhR7Zp8NUzE/maxresdefault.jpg",
+            "categoria": "Innovación y gestión",
+            "description": "Video del área de Innovación y gestión"
+        },
+        {
+            "titulo": "Empresas que aprenden",
+            "videoUrl": "https://www.youtube.com/watch?v=mwNfWRsDDWE",
+            "imageUrl": "https://img.youtube.com/vi/mwNfWRsDDWE/maxresdefault.jpg",
+            "categoria": "Innovación y gestión",
+            "description": "Video del área de Innovación y gestión"
+        },
+        {
+            "titulo": "Accesibilidad Web",
+            "videoUrl": "https://www.youtube.com/watch?v=ngMOsuZL-XE",
+            "imageUrl": "https://img.youtube.com/vi/ngMOsuZL-XE/maxresdefault.jpg",
+            "categoria": "IU & UX",
+            "description": "Video del área de IU & UX"
+        },
+        {
+            "titulo": "Como aplicar Dark Mode en tu proyecto",
+            "videoUrl": "https://www.youtube.com/watch?v=MxlxFhzGRV8",
+            "imageUrl": "https://img.youtube.com/vi/MxlxFhzGRV8/maxresdefault.jpg",
+            "categoria": "IU & UX",
+            "description": "Video del área de IU & UX"
+        },
+        {
+            "titulo": "Descomplicando Base de Datos",
+            "videoUrl": "https://www.youtube.com/watch?v=G1cDRqKuxpg",
+            "imageUrl": "https://img.youtube.com/vi/G1cDRqKuxpg/maxresdefault.jpg",
+            "categoria": "Data Science",
+            "description": "Video del área de Data Science"
         }
     ]
 }
